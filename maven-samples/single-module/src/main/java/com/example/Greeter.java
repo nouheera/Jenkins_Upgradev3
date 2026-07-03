@@ -21,7 +21,7 @@ public class Greeter {
   
   public static void main(String args[]){
     
-	  System.out.println("Hello from Main Method   !!!...editing to check maven on jenkenis");
+	  System.out.println("Hello from Main Method   !!!...editing to check maven on jenkenis......edit again to get trigger on jenkins");
   }
 	
 }
